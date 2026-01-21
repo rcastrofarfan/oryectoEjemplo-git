@@ -1,2 +1,2 @@
-const x="hola";
+const x="hola a todos";
 console.log("pruebaaaaa");
