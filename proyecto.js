@@ -1,2 +1,2 @@
 const x="hola a todos qqqqqqqqqq";
-console.log("pruebaaaaa!!!!!!!!!!!!!");
+console.log("pruebaaaaa!!!!!");
