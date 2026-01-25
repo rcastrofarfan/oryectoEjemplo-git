@@ -1,1 +1,2 @@
-const x=10;
+console.log("mensaje js");
+const zzz=152.125
